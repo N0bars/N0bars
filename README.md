@@ -1,5 +1,5 @@
 #  About Me:
-🔭 I'm currently working on Exploring penetration testing tools in Kali Linux, and contributing to security-related projects.<br>👯 Looking to collaborate on Open-source cybersecurity tools, CTF (Capture The Flag) challenges<br>🌱 I’m currently learning Python scripting for automation in security tasks<br>
+🔭 I'm currently exploring penetration testing tools in Kali Linux <br>👯 Looking to collaborate on Open-source cybersecurity tools, CTF (Capture The Flag) challenges<br>🌱 I’m currently learning Python scripting for automation in security tasks<br>
 
 
 ## 🌐 Socials:
